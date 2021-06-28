@@ -1,0 +1,39 @@
+C:\Users\André Castro\Desktop\APG\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.csprojResolveAssemblyReference.cache
+C:\Users\André Castro\Desktop\APG\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.Form1.resources
+C:\Users\André Castro\Desktop\APG\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.Properties.Resources.resources
+C:\Users\André Castro\Desktop\APG\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.csproj.GenerateResource.Cache
+C:\Users\André Castro\Desktop\APG\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.csproj.CoreCompileInputs.cache
+C:\Users\André Castro\Desktop\APG\TrabalhoAPG\TrabalhoAPG\bin\Debug\TrabalhoAPG.exe.config
+C:\Users\André Castro\Desktop\APG\TrabalhoAPG\TrabalhoAPG\bin\Debug\TrabalhoAPG.exe
+C:\Users\André Castro\Desktop\APG\TrabalhoAPG\TrabalhoAPG\bin\Debug\TrabalhoAPG.pdb
+C:\Users\André Castro\Desktop\APG\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.exe
+C:\Users\André Castro\Desktop\APG\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.pdb
+C:\Users\Diogo Amorim\Desktop\TrabalhoAPG\TrabalhoAPG\bin\Debug\TrabalhoAPG.exe.config
+C:\Users\Diogo Amorim\Desktop\TrabalhoAPG\TrabalhoAPG\bin\Debug\TrabalhoAPG.exe
+C:\Users\Diogo Amorim\Desktop\TrabalhoAPG\TrabalhoAPG\bin\Debug\TrabalhoAPG.pdb
+C:\Users\Diogo Amorim\Desktop\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.csprojResolveAssemblyReference.cache
+C:\Users\Diogo Amorim\Desktop\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.Form1.resources
+C:\Users\Diogo Amorim\Desktop\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.Properties.Resources.resources
+C:\Users\Diogo Amorim\Desktop\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.csproj.GenerateResource.Cache
+C:\Users\Diogo Amorim\Desktop\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.exe
+C:\Users\Diogo Amorim\Desktop\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.pdb
+C:\Users\André Castro\Downloads\TrabalhoAPG\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.csprojResolveAssemblyReference.cache
+C:\Users\André Castro\Downloads\TrabalhoAPG\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.Form1.resources
+C:\Users\André Castro\Downloads\TrabalhoAPG\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.Properties.Resources.resources
+C:\Users\André Castro\Downloads\TrabalhoAPG\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.csproj.GenerateResource.Cache
+C:\Users\André Castro\Downloads\TrabalhoAPG\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.csproj.CoreCompileInputs.cache
+C:\Users\André Castro\Downloads\TrabalhoAPG\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.exe
+C:\Users\André Castro\Downloads\TrabalhoAPG\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.pdb
+C:\Users\André Castro\Downloads\TrabalhoAPG\TrabalhoAPG\TrabalhoAPG\bin\Debug\TrabalhoAPG.exe.config
+C:\Users\André Castro\Downloads\TrabalhoAPG\TrabalhoAPG\TrabalhoAPG\bin\Debug\TrabalhoAPG.exe
+C:\Users\André Castro\Downloads\TrabalhoAPG\TrabalhoAPG\TrabalhoAPG\bin\Debug\TrabalhoAPG.pdb
+C:\Users\André Castro\Downloads\TrabalhoAPG (1)\TrabalhoAPG\TrabalhoAPG\bin\Debug\TrabalhoAPG.exe.config
+C:\Users\André Castro\Downloads\TrabalhoAPG (1)\TrabalhoAPG\TrabalhoAPG\bin\Debug\TrabalhoAPG.exe
+C:\Users\André Castro\Downloads\TrabalhoAPG (1)\TrabalhoAPG\TrabalhoAPG\bin\Debug\TrabalhoAPG.pdb
+C:\Users\André Castro\Downloads\TrabalhoAPG (1)\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.csprojResolveAssemblyReference.cache
+C:\Users\André Castro\Downloads\TrabalhoAPG (1)\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.Form1.resources
+C:\Users\André Castro\Downloads\TrabalhoAPG (1)\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.Properties.Resources.resources
+C:\Users\André Castro\Downloads\TrabalhoAPG (1)\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.csproj.GenerateResource.Cache
+C:\Users\André Castro\Downloads\TrabalhoAPG (1)\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.csproj.CoreCompileInputs.cache
+C:\Users\André Castro\Downloads\TrabalhoAPG (1)\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.exe
+C:\Users\André Castro\Downloads\TrabalhoAPG (1)\TrabalhoAPG\TrabalhoAPG\obj\Debug\TrabalhoAPG.pdb
